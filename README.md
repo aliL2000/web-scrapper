@@ -1,9 +1,5 @@
 # Hi there
 
-I'm Ali Ladha
-
----
-
 This is a list of my changes to the repository you've shared with me, I've also decided to make some interesting changes to the project. Aside from the required outlined requirements, I've added some additional features that I will elaborate on.
 
 ## Changes
@@ -30,7 +26,8 @@ This is a list of my changes to the repository you've shared with me, I've also 
     - **check_age** that checks to see if the age calculation makes logical sense and is calculated properly.
 
 - Created [image_processing.py](image_processing.py) that takes the image links from the Robot, downloads the images, and outputs the image in a .txt file that looks like this:
-![image](https://miro.medium.com/v2/resize:fit:750/format:webp/1*SkSXpy88uqu-7Kr8XU80aA.jpeg). It's more cool than it is actually functional, and whether or not it's a business-oriented feature is up to debate to be honest.
+![image](https://miro.medium.com/v2/resize:fit:750/format:webp/1*SkSXpy88uqu-7Kr8XU80aA.jpeg) 
+It's more cool than it is actually functional, and whether or not it's a business-oriented feature is up to debate to be honest.
 
 - Created [test.py](test.py) that contains unit tests that check the correct behaviour of methods that I've created. Each test contains test cases for the following methods:
     - **age_calculator()**
